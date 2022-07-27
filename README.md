@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulaarora&label=Visitors&color=0e75b6&style=flat" alt="rahulaarora" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulaarora" alt="rahulaarora" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rahularora2089" target="blank"><img src="https://img.shields.io/twitter/follow/rahularora2089?logo=twitter&style=for-the-badge" alt="rahularora2089" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
