@@ -2,6 +2,12 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 
 
+- 💬 Ask me about **JAM stack, NextJS, MERN stack and gadgets**
+
+- 📫 How to reach me **rahularora2089@gmail.com**
+
+- ⚡ Fun fact **The First Programmer Was A Daughter Of Mad Poet**
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/rahularora2089" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahularora2089" height="30" width="40" /></a>
