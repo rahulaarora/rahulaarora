@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Rahul!</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulaarora&label=Profile%20views&color=0e75b6&style=flat" alt="rahulaarora" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulaarora&label=Visitors&color=0e75b6&style=flat" alt="rahulaarora" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulaarora" alt="rahulaarora" /></a> </p>
 
