@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **The First Programmer Was A Daughter Of Mad Poet**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulaarora&show_icons=true&locale=en&count_private=true&theme=dark&custom_title=Stats" alt="rahulaarora" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulaarora&show_icons=true&locale=en&count_private=true&theme=dark&custom_title=Stats&layout=compact&card_width=50" alt="rahulaarora" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulaarora&" alt="rahulaarora" /></p>
 
