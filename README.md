@@ -8,6 +8,10 @@
 
 - ⚡ Fun fact **The First Programmer Was A Daughter Of Mad Poet**
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulaarora&show_icons=true&locale=en" alt="rahulaarora" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulaarora&" alt="rahulaarora" /></p>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/rahularora2089" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahularora2089" height="30" width="40" /></a>
