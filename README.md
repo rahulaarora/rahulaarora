@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **JAM stack, NextJS, MERN stack and gadgets**
 
-- 📫 How to reach me **rahularora2089@gmail.com**
+- 📫 How to reach me **@rahularora2089**
 
 - ⚡ Fun fact **The First Programmer Was A Daughter Of Mad Poet**
 
