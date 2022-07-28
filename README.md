@@ -1,5 +1,6 @@
 <h1 align="center">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Rahul!</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
+<br/>
 
 - 👨🏼‍🎓 Pursuing **Bachelor of Technology**
 
