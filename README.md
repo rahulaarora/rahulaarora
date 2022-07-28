@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Rahul!</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center" style="padding-bottom:10px;">A passionate Web Developer from India</h3>
 
-<p>
+
 - 👨🏼‍🎓 Pursuing **Bachelor of Technology**
 
 - 💬 Ask me about **JAM stack, NextJS, MERN stack and gadgets**
@@ -9,7 +9,7 @@
 - 📫 How to reach me **<a href="https://twitter.com/rahularora2089">@rahularora2089</a>**
 
 - ⚡ Fun fact **The First Programmer Was A Daughter Of Mad Poet**
-</p>
+
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulaarora&show_icons=true&locale=en&count_private=true&theme=dark&custom_title=Stats&layout=compact&card_width=5" alt="rahulaarora" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulaarora&" alt="rahulaarora" /></p> -->
