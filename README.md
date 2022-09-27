@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **[@rahularora2089](https://twitter.com/rahularora2089)**
 
-- ⚡ Fun fact **The First Programmer Was A Daughter Of Mad Poet**
+- ⚡ Fun fact **The First Programmer Was A Daughter Of Mad Poet!**
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulaarora&show_icons=true&locale=en&count_private=true&theme=dark&custom_title=Stats&layout=compact&card_width=5" alt="rahulaarora" /></p>
 
