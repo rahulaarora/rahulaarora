@@ -3,7 +3,7 @@
     margin-bottom: 24px;
 ">A passionate Web Developer from India</h3>
 <img src="https://media-exp1.licdn.com/dms/image/D4D16AQFCc1KbTojbGw/profile-displaybackgroundimage-shrink_350_1400/0/1664976317962?e=1670457600&v=beta&t=OyMi4ty7iMfvArtIKWj0Obk3_OM9cj6RwTqcaJwQXMA">
-<br/>
+
 
 - 👨🏼‍🎓 Pursuing **Bachelor of Technology**
 
