@@ -8,7 +8,7 @@
 
 - 👨🏼‍🎓 Pursuing **Bachelor of Technology**
 
-- 💬 Ask me about **JAM stack, NextJS, MERN stack and anything related to tech!**
+- 💬 Ask me about **anything related to tech!**
 
 - 📫 How to reach me **[@rahularora2089](https://twitter.com/rahularora2089)**
 
