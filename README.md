@@ -2,12 +2,13 @@
 <h3 align="center" style="
     margin-bottom: 24px;
 ">A passionate Web Developer from India</h3>
-<img src="https://media-exp1.licdn.com/dms/image/D4D16AQFCc1KbTojbGw/profile-displaybackgroundimage-shrink_350_1400/0/1664976317962?e=1670457600&v=beta&t=OyMi4ty7iMfvArtIKWj0Obk3_OM9cj6RwTqcaJwQXMA">
+<!-- <img src="https://media-exp1.licdn.com/dms/image/D4D16AQFCc1KbTojbGw/profile-displaybackgroundimage-shrink_350_1400/0/1664976317962?e=1670457600&v=beta&t=OyMi4ty7iMfvArtIKWj0Obk3_OM9cj6RwTqcaJwQXMA"> -->
 
+[![@rahularora's Holopin board](https://holopin.io/api/user/board?user=rahularora)](https://holopin.io/@rahularora)
 
 - 👨🏼‍🎓 Pursuing **Bachelor of Technology**
 
-- 💬 Ask me about **JAM stack, NextJS, MERN stack and gadgets**
+- 💬 Ask me about **JAM stack, NextJS, MERN stack and anything related to tech!**
 
 - 📫 How to reach me **[@rahularora2089](https://twitter.com/rahularora2089)**
 
